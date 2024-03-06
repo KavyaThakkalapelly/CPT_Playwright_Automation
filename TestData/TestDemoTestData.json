@@ -1,0 +1,9 @@
+{
+    "url_QA" : "https://clientportaltravel-qa.medicalsolutions.com/",
+    "username_QA" : "cltadmin@cptrvl.com",
+    "password_QA" : "Tester123!",
+    "username_invalid": "david.warne@cpt.com",
+    "password_invalid":"Tester123!",
+    "emailId": "kavya12@cpt.com"
+    
+}
